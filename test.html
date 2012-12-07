@@ -1,0 +1,37 @@
+﻿<html>
+    <head>
+        <title>shapes</title>
+		<base target="_self">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <script type="text/javascript" src="js/jquery-1.7.1.min.js">
+        </script>
+        <script>
+            $(document).ready(function(){
+			
+                $("#openBtn").bind("click", function(e){
+					if(true){
+					alert("ddd");
+					return;
+					}
+					
+					 var obj = new Object();
+          			obj.name="51js";
+                    var returnValue =  window.showModalDialog("b.html",obj,"dialogWidth=500px;dialogHeight=500px");
+					if(returnValue != null){
+						$("#getDiv").text(returnValue.value);
+					}
+                });
+				
+            });
+            
+            
+        </script>
+    </head>
+    <body>
+        <form>
+        	<div id="getDiv">ddddddddddd</div>
+            <input type="button" name="submit" id="openBtn" value="open win" >
+			
+        </form>
+    </body>
+</html>

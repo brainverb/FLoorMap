@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<maps>
+<map name="Map" floor="1"></map>
+<map name="Map" floor="2">
+    <area shape="rect" coords="760,515,837,616" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="33"   level="高级程序员" tel="15352551" head="images/head/head.jpg">
+    </area>
+    <area shape="rect" coords="838,517,914,614" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ccx"  level="高级程序员" tel="15352551" head="images/head/ccx.jpg">
+    </area>
+    <area shape="rect" coords="841,617,915,714" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sky"  level="高级程序员" tel="15352551" head="images/head/sky.jpg">
+    </area>
+    <area shape="rect" coords="759,614,837,716" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="simon"  level="高级程序员" tel="15352551" head="images/head/qhead/01.gif">
+    </area>
+    <area shape="rect" coords="760,719,837,812" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="herry"  level="高级程序员" tel="15352551" head="images/head/qhead/02.gif">
+    </area>
+    <area shape="rect" coords="841,722,913,811" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tim"  level="高级程序员" tel="15352551" head="images/head/tim.jpg">
+    </area>
+    <area shape="rect" coords="759,815,834,910" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tom"  level="高级程序员" tel="15352551" head="images/head/qhead/03.gif">
+    </area>
+    <area shape="rect" coords="845,819,913,912" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="carr"  level="高级程序员" tel="15352551" head="images/head/qhead/04.gif">
+    </area>
+    <area shape="rect" coords="963,517,1042,615" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="bill"  level="高级程序员" tel="15352551" head="images/head/qhead/05.gif">
+    </area>
+    <area shape="rect" coords="965,618,1041,713" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="carol"  level="高级程序员" tel="15352551" head="images/head/qhead/06.gif">
+    </area>
+    <area shape="rect" coords="966,719,1041,811" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jeff"  level="高级程序员" tel="15352551" head="images/head/qhead/07.gif">
+    </area>
+    <area shape="rect" coords="967,817,1042,913" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jenothan"  level="高级程序员" tel="15352551" head="images/head/qhead/08.gif">
+    </area>
+    <area shape="rect" coords="1046,737,1117,809" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="doD"  level="高级程序员" tel="15352551" head="images/head/qhead/09.gif">
+    </area>
+    <area shape="rect" coords="1120,741,1191,808" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jono"  level="高级程序员" tel="15352551" head="images/head/qhead/10.gif">
+    </area>
+    <area shape="rect" coords="1044,819,1118,912" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="landy"  level="高级程序员" tel="15352551" head="images/head/qhead/11.gif">
+    </area>
+    <area shape="rect" coords="1121,823,1193,912" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="andy"  level="高级程序员" tel="15352551" head="images/head/qhead/12.gif">
+    </area>
+    <area shape="rect" coords="1044,531,1118,605" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dom"  level="高级程序员" tel="15352551" head="images/head/dom.jpg">
+    </area>
+    <area shape="rect" coords="1122,530,1194,605" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sorry"  level="高级程序员" tel="15352551" head="images/head/qhead/13.gif">
+    </area>
+    <area shape="rect" coords="1046,612,1119,682" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="excute"  level="高级程序员" tel="15352551" head="images/head/qhead/14.gif">
+    </area>
+    <area shape="rect" coords="1125,611,1193,684" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="mo"  level="高级程序员" tel="15352551" head="images/head/qhead/15.gif">
+    </area>
+    <area shape="rect" coords="797,308,879,386" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dom"  level="高级程序员" tel="15352551" head="images/head/qhead/16.gif">
+    </area>
+    <area shape="rect" coords="897,308,981,385" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="darry"  level="高级程序员" tel="15352551" head="images/head/qhead/17.gif">
+    </area>
+    <area shape="rect" coords="996,309,1061,386" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sunny"  level="高级程序员" tel="15352551" head="images/head/qhead/18.gif">
+    </area>
+    <area shape="rect" coords="1095,308,1179,387" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="benny"  level="高级程序员" tel="15352551" head="images/head/qhead/18.gif">
+    </area>
+    <area shape="rect" coords="667,333,751,418" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="andy2"  level="高级程序员" tel="15352551" head="images/head/qhead/19.gif">
+    </area>
+    <area shape="rect" coords="551,334,665,449" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="just"  level="高级程序员" tel="15352551" head="images/head/qhead/20.gif">
+    </area>
+    <area shape="rect" coords="223,321,425,474" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tommory"  level="高级程序员" tel="15352551" head="images/head/1/1 (94).jpg">
+    </area>
+    <area shape="rect" coords="1195,309,1302,395" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="herrysen"  level="高级程序员" tel="15352551" head="images/head/1/1 (93).jpg">
+    </area>
+    <area shape="rect" coords="1270,529,1343,606" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="wing"  level="高级程序员" tel="15352551" head="images/head/1/1 (92).jpg">
+    </area>
+    <area shape="rect" coords="1346,531,1418,607" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="inner"  level="高级程序员" tel="15352551" head="images/head/1/1 (91).jpg">
+    </area>
+    <area shape="rect" coords="1271,644,1341,720" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="outer"  level="高级程序员" tel="15352551" head="images/head/1/1 (90).jpg">
+    </area>
+    <area shape="rect" coords="1344,643,1419,720" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="shanshan"  level="高级程序员" tel="15352551" head="images/head/1/1 (89).jpg">
+    </area>
+    <area shape="rect" coords="1270,726,1341,800" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="nono"  level="高级程序员" tel="15352551" head="images/head/1/1 (88).jpg">
+    </area>
+    <area shape="rect" coords="1345,728,1418,802" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="nana"  level="高级程序员" tel="15352551" head="images/head/1/1 (87).jpg">
+    </area>
+    <area shape="rect" coords="1271,838,1342,911" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="scrikt"  level="高级程序员" tel="15352551" head="images/head/1/1 (86).jpg">
+    </area>
+    <area shape="rect" coords="1349,839,1418,914" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="bei"  level="高级程序员" tel="15352551" head="images/head/1/1 (85).jpg">
+    </area>
+    <area shape="rect" coords="1423,837,1497,915" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="go"  level="高级程序员" tel="15352551" head="images/head/1/1 (84).jpg">
+    </area>
+    <area shape="rect" coords="1421,731,1498,808" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hear"  level="高级程序员" tel="15352551" head="images/head/1/1 (83).jpg">
+    </area>
+    <area shape="rect" coords="1424,534,1494,607" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="army"  level="高级程序员" tel="15352551" head="images/head/1/1 (82).jpg">
+    </area>
+    <area shape="rect" coords="1423,616,1496,691" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="cristiner"  level="高级程序员" tel="15352551" head="images/head/1/1 (81).jpg">
+    </area>
+    <area shape="rect" coords="1541,531,1615,604" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gigi"  level="高级程序员" tel="15352551" head="images/head/1/1 (80).jpg">
+    </area>
+    <area shape="rect" coords="1542,633,1615,708" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="serfi"  level="高级程序员" tel="15352551" head="images/head/1/1 (79).jpg">
+    </area>
+    <area shape="rect" coords="1653,533,1728,605" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hino"  level="高级程序员" tel="15352551" head="images/head/1/1 (78).jpg">
+    </area>
+    <area shape="rect" coords="1655,610,1730,709" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="di"  level="高级程序员" tel="15352551" head="images/head/1/1 (77).jpg">
+    </area>
+    <area shape="rect" coords="1543,713,1615,811" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="stronger"  level="高级程序员" tel="15352551" head="images/head/1/1 (76).jpg">
+    </area>
+    <area shape="rect" coords="1654,713,1730,813" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="luck"  level="高级程序员" tel="15352551" head="images/head/1/1 (75).jpg">
+    </area>
+    <area shape="rect" coords="1541,835,1617,912" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="lucy"  level="高级程序员" tel="15352551" head="images/head/1/1 (74).jpg">
+    </area>
+    <area shape="rect" coords="1656,819,1730,914" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="memun"  level="高级程序员" tel="15352551" head="images/head/1/1 (73).jpg">
+    </area>
+    <area shape="rect" coords="1734,534,1807,605" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ximen"  level="高级程序员" tel="15352551" head="images/head/1/1 (72).jpg">
+    </area>
+    <area shape="rect" coords="1734,631,1806,706" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="robert"  level="高级程序员" tel="15352551" head="images/head/1/1 (71).jpg">
+    </area>
+    <area shape="rect" coords="1733,714,1808,811" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="omila"  level="高级程序员" tel="15352551" head="images/head/1/1 (70).jpg">
+    </area>
+    <area shape="rect" coords="1733,816,1808,913" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="amily"  level="高级程序员" tel="15352551" head="images/head/1/1 (69).jpg">
+    </area>
+    <area shape="rect" coords="1849,735,1916,808" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="kamen"  level="高级程序员" tel="15352551" head="images/head/1/1 (68).jpg">
+    </area>
+    <area shape="rect" coords="1843,835,1921,913" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="carmen"  level="高级程序员" tel="15352551" head="images/head/1/1 (67).jpg">
+    </area>
+    <area shape="rect" coords="1925,837,2000,913" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dicy"  level="高级程序员" tel="15352551" head="images/head/1/1 (66).jpg">
+    </area>
+    <area shape="rect" coords="1926,734,1999,812" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fw3"  level="高级程序员" tel="15352551" head="images/head/1/1 (65).jpg">
+    </area>
+    <area shape="rect" coords="2039,647,2115,729" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="wici"  level="高级程序员" tel="15352551" head="images/head/1/1 (64).jpg">
+    </area>
+    <area shape="rect" coords="2039,747,2114,828" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dvd"  level="高级程序员" tel="15352551" head="images/head/1/1 (63).jpg">
+    </area>
+    <area shape="rect" coords="1588,307,1636,372" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="trim"  level="高级程序员" tel="15352551" head="images/head/1/1 (62).jpg">
+    </area>
+    <area shape="rect" coords="1641,306,1689,373" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="moson"  level="高级程序员" tel="15352551" head="images/head/1/1 (61).jpg">
+    </area>
+    <area shape="rect" coords="1694,308,1746,374" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="aici"  level="高级程序员" tel="15352551" head="images/head/1/1 (60).jpg">
+    </area>
+    <area shape="rect" coords="1752,304,1801,372" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="arn"  level="高级程序员" tel="15352551" head="images/head/1/1 (59).jpg">
+    </area>
+    <area shape="rect" coords="1805,306,1854,372" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="soso"  level="高级程序员" tel="15352551" head="images/head/1/1 (58).jpg">
+    </area>
+    <area shape="rect" coords="1352,307,1457,390" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="anan"  level="高级程序员" tel="15352551" head="images/head/1/1 (57).jpg">
+    </area>
+    <area shape="rect" coords="1470,309,1585,389" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="nami"  level="高级程序员" tel="15352551" head="images/head/1/1 (56).jpg">
+    </area>
+    <area shape="rect" coords="1784,416,1858,472" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yeste"  level="高级程序员" tel="15352551" head="images/head/1/1 (55).jpg">
+    </area>
+    <area shape="rect" coords="1865,416,1926,475" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dfd"  level="高级程序员" tel="15352551" head="images/head/1/1 (54).jpg">
+    </area>
+    <area shape="rect" coords="1931,419,1986,471" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="erf"  level="高级程序员" tel="15352551" head="images/head/1/1 (53).jpg">
+    </area>
+    <area shape="rect" coords="1917,308,1999,359" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fdf"  level="高级程序员" tel="15352551" head="images/head/1/1 (52).jpg">
+    </area>
+    <area shape="rect" coords="2006,306,2067,359" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fd2"  level="高级程序员" tel="15352551" head="images/head/1/1 (51).jpg">
+    </area>
+    <area shape="rect" coords="2074,306,2121,360" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fh"  level="高级程序员" tel="15352551" head="images/head/1/1 (50).jpg">
+    </area>
+    <area shape="rect" coords="2023,420,2067,469" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tyy"  level="高级程序员" tel="15352551" head="images/head/1/1 (49).jpg">
+    </area>
+    <area shape="rect" coords="2072,420,2124,467" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yyh"  level="高级程序员" tel="15352551" head="images/head/1/1 (48).jpg">
+    </area>
+    <area shape="rect" coords="2163,318,2213,367" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"  level="高级程序员" tel="15352551" head="images/head/1/1 (47).jpg">
+    </area>
+    <area shape="rect" coords="2159,417,2213,468" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dedd"  level="高级程序员" tel="15352551" head="images/head/1/1 (46).jpg">
+    </area>
+    <area shape="rect" coords="2285,395,2330,444" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hehe"  level="高级程序员" tel="15352551" head="images/head/1/1 (45).jpg">
+    </area>
+    <area shape="rect" coords="2375,328,2418,378" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="haha"  level="高级程序员" tel="15352551" head="images/head/1/1 (44).jpg">
+    </area>
+    <area shape="rect" coords="2374,398,2421,439" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="heiehie"  level="高级程序员" tel="15352551" head="images/head/1/1 (43).jpg">
+    </area>
+    <area shape="rect" coords="2039,551,2083,596" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dfg"  level="高级程序员" tel="15352551" head="images/head/1/1 (42).jpg">
+    </area>
+    <area shape="rect" coords="2243,613,2295,656" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hgh"  level="高级程序员" tel="15352551" head="images/head/1/1 (41).jpg">
+    </area>
+    <area shape="rect" coords="2338,572,2382,619" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="good"  level="高级程序员" tel="15352551" head="images/head/1/1 (40).jpg">
+    </area>
+    <area shape="rect" coords="2335,670,2383,723" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="nogood"  level="高级程序员" tel="15352551" head="images/head/1/1 (39).jpg">
+    </area>
+    <area shape="rect" coords="2248,772,2293,814" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="bedst"  level="高级程序员" tel="15352551" head="images/head/1/1 (38).jpg">
+    </area>
+    <area shape="rect" coords="2335,768,2382,816" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="beast"  level="高级程序员" tel="15352551" head="images/head/1/1 (37).jpg">
+    </area>
+    <area shape="rect" coords="2436,671,2489,720" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="beauty"  level="高级程序员" tel="15352551" head="images/head/1/1 (36).jpg">
+    </area>
+    <area shape="rect" coords="2436,561,2484,616" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dod"  level="高级程序员" tel="15352551" head="images/head/1/1 (35).jpg">
+    </area>
+    <area shape="rect" coords="2531,570,2581,622" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="benri"  level="高级程序员" tel="15352551" head="images/head/1/1 (34).jpg">
+    </area>
+    <area shape="rect" coords="2501,351,2547,400" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fd22"  level="高级程序员" tel="15352551" head="images/head/1/1 (33).jpg">
+    </area>
+    <area shape="rect" coords="2606,351,2656,399" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dfgd"  level="高级程序员" tel="15352551" head="images/head/1/1 (32).jpg">
+    </area>
+    <area shape="rect" coords="2529,672,2581,728" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yje"  level="高级程序员" tel="15352551" head="images/head/1/1 (31).jpg">
+    </area>
+    <area shape="rect" coords="2437,767,2492,822" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yjyt"  level="高级程序员" tel="15352551" head="images/head/1/1 (30).jpg">
+    </area>
+    <area shape="rect" coords="2520,762,2582,822" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="trre"  level="高级程序员" tel="15352551" head="images/head/1/1 (29).jpg">
+    </area>
+    <area shape="rect" coords="2635,576,2687,620" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="kuy"  level="高级程序员" tel="15352551" head="images/head/1/1 (28).jpg">
+    </area>
+    <area shape="rect" coords="2633,763,2680,815" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jktr"  level="高级程序员" tel="15352551" head="images/head/1/1 (27).jpg">
+    </area>
+    <area shape="rect" coords="2749,367,2800,422" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hju"  level="高级程序员" tel="15352551" head="images/head/1/1 (26).jpg">
+    </area>
+    <area shape="rect" coords="2726,575,2773,624" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jlo"  level="高级程序员" tel="15352551" head="images/head/1/1 (25).jpg">
+    </area>
+    <area shape="rect" coords="2733,675,2777,725" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="lree"  level="高级程序员" tel="15352551" head="images/head/1/1 (24).jpg">
+    </area>
+    <area shape="rect" coords="2721,773,2780,822" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rrtr"  level="高级程序员" tel="15352551" head="images/head/1/1 (23).jpg">
+    </area>
+    <area shape="rect" coords="2719,878,2780,930" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtre"  level="高级程序员" tel="15352551" head="images/head/1/1 (22).jpg">
+    </area>
+    <area shape="rect" coords="2829,870,2884,928" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="wrfg"  level="高级程序员" tel="15352551" head="images/head/1/1 (21).jpg">
+    </area>
+    <area shape="rect" coords="2825,769,2884,825" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ghx"  level="高级程序员" tel="15352551" head="images/head/1/1 (20).jpg">
+    </area>
+    <area shape="rect" coords="2828,666,2885,724" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="vjm"  level="高级程序员" tel="15352551" head="images/head/1/1 (19).jpg">
+    </area>
+    <area shape="rect" coords="2825,561,2884,622" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hk"  level="高级程序员" tel="15352551" head="images/head/1/1 (18).jpg">
+    </area>
+    <area shape="rect" coords="3003,331,3047,383" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ku"  level="高级程序员" tel="15352551" head="images/head/1/1 (17).jpg">
+    </area>
+    <area shape="rect" coords="3013,545,3065,594" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fww"  level="高级程序员" tel="15352551" head="images/head/1/1 (16).jpg">
+    </area>
+    <area shape="rect" coords="3005,689,3068,748" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fy"  level="高级程序员" tel="15352551" head="images/head/1/1 (15).jpg">
+    </area>
+    <area shape="rect" coords="3022,841,3069,894" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tyu"  level="高级程序员" tel="15352551" head="images/head/1/1 (14).jpg">
+    </area>
+    <area shape="rect" coords="457,375,516,425" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yuuio"  level="高级程序员" tel="15352551" head="images/head/1/1 (13).jpg">
+    </area>
+    <area shape="rect" coords="244,497,302,555" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="uya"  level="高级程序员" tel="15352551" head="images/head/1/1 (12).jpg">
+    </area>
+    <area shape="rect" coords="247,646,320,706" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rr"  level="高级程序员" tel="15352551" head="images/head/1/1 (11).jpg">
+    </area>
+    <area shape="rect" coords="235,795,304,861" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtr"  level="高级程序员" tel="15352551" head="images/head/1/1 (10).jpg">
+    </area>
+    <area shape="rect" coords="509,704,548,754" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dtravid"  level="高级程序员" tel="15352551" head="images/head/1/1 (9).jpg">
+    </area>
+    <area shape="rect" coords="505,592,549,632" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="f"  level="高级程序员" tel="15352551" head="images/head/1/1 (8).jpg">
+    </area>
+    <area shape="rect" coords="494,825,547,861" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ggh"  level="高级程序员" tel="15352551" head="images/head/1/1 (7).jpg">
+    </area>
+    <area shape="rect" coords="448,853,509,902" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ge"  level="高级程序员" tel="15352551" head="images/head/1/1 (6).jpg">
+    </area>
+    <area shape="rect" coords="457,742,493,785" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="qqt"  level="高级程序员" tel="15352551" head="images/head/1/1 (5).jpg">
+    </area>
+    <area shape="rect" coords="304,858,342,895" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="re"  level="高级程序员" tel="15352551" head="images/head/1/1 (4).jpg">
+    </area>
+    <area shape="rect" coords="297,959,337,1003" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ret"  level="高级程序员" tel="15352551" head="images/head/1/1 (3).jpg">
+    </area>
+    <area shape="rect" coords="246,924,294,965" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="soym"  level="高级程序员" tel="15352551" head="images/head/1/1 (2).jpg">
+    </area>
+    <area shape="rect" coords="604,815,660,871" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="philiph"  level="高级程序员" tel="15352551" head="images/head/head.jpg">
+    </area>
+    <area shape="rect" coords="606,591,663,644" href="#" dept="IT" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="siry"  level="高级程序员" tel="15352551" head="images/head/head.jpg">
+    </area>
+</map>
+<map name="Map" floor="3">
+    <area shape="rect" coords="250,297,296,349" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hurry"   level="人事主管" tel="15352551" head="images/head/qhead/05.gif">
+    </area>
+    <area shape="rect" coords="462,335,522,397" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="soy"   level="人事主管" tel="15352551" head="images/head/qhead/06.gif">
+    </area>
+    <area shape="rect" coords="250,453,296,501" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fue"   level="人事主管" tel="15352551" head="images/head/qhead/07.gif">
+    </area>
+    <area shape="rect" coords="560,321,638,387" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="iturn"   level="人事主管" tel="15352551" head="images/head/qhead/08.gif">
+    </area>
+    <area shape="rect" coords="700,319,750,371" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="aple"   level="人事主管" tel="15352551" head="images/head/qhead/09.gif">
+    </area>
+    <area shape="rect" coords="806,291,872,355" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="apple"   level="人事主管" tel="15352551" head="images/head/qhead/10.gif">
+    </area>
+    <area shape="rect" coords="906,299,958,357" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="lenovo"   level="人事主管" tel="15352551" head="images/head/qhead/10.gif">
+    </area>
+    <area shape="rect" coords="812,363,868,425" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sum"   level="人事主管" tel="15352551" head="images/head/qhead/11.gif">
+    </area>
+    <area shape="rect" coords="902,367,966,427" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sin"   level="人事主管" tel="15352551" head="images/head/qhead/12.gif">
+    </area>
+    <area shape="rect" coords="1006,297,1060,353" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dre"   level="人事主管" tel="15352551" head="images/head/qhead/15.gif">
+    </area>
+    <area shape="rect" coords="1010,371,1064,421" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gg"   level="人事主管" tel="15352551" head="images/head/qhead/13.gif">
+    </area>
+    <area shape="rect" coords="1188,297,1256,349" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="22"   level="人事主管" tel="15352551" head="images/head/qhead/14.gif">
+    </area>
+    <area shape="rect" coords="1104,367,1156,419" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="df"   level="人事主管" tel="15352551" head="images/head/qhead/16.gif">
+    </area>
+    <area shape="rect" coords="1202,365,1262,419" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh2"   level="人事主管" tel="15352551" head="images/head/qhead/17.gif">
+    </area>
+    <area shape="rect" coords="1352,311,1402,377" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh3"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1456,339,1522,407" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="df"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1596,313,1652,391" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1568,385,1602,437" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fr"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1610,395,1646,441" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rrr"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1712,321,1776,381" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgds"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1694,391,1728,439" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1734,387,1772,441" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1834,365,1892,423" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jjh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1928,309,1990,361" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hjk"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1928,371,1986,427" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="kg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2030,335,2090,407" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfgf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2122,339,2188,407" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgfga"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2242,309,2298,381" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfgs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2358,321,2442,385" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfgf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2496,317,2558,377" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgfgf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2626,311,2694,379" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gff"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2764,315,2828,385" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2988,297,3050,371" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2956,459,3008,533" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2946,605,3010,665" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2946,739,3012,805" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="asfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2948,861,3006,923" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fga"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="3034,747,3084,797" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfds"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="3032,855,3082,923" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2952,971,3004,1033" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hjs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="3018,969,3082,1031" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtwh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2984,1119,3052,1195" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="qre"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2684,897,2720,943" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2722,899,2764,939" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgff"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2766,899,2812,951" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fffg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2816,901,2854,949" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ada"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="242,577,300,639" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="242,767,300,841" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="240,885,302,973" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="482,505,546,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fghj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="578,503,644,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rrh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="676,513,744,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="782,511,836,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ere"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="884,513,938,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="wer"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="982,517,1032,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1084,517,1134,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgw"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="490,601,540,647" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="er"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="492,655,536,697" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ere"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="578,601,638,651" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtre"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="580,653,640,701" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgdg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="688,601,742,657" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rete"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="776,601,836,653" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gdfew"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="780,659,838,697" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="890,599,932,651" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="et"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="882,653,950,701" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ertre"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="978,603,1030,649" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gge"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="980,651,1026,697" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tyerw"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1084,603,1132,653" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1178,519,1232,575" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1270,523,1334,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1380,517,1422,577" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtjh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1476,519,1532,569" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rtre"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1642,517,1704,575" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rrt"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1642,597,1706,653" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="q"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1738,523,1798,569" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="iiii"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1734,593,1798,651" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tt"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1836,527,1908,569" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1940,523,1992,575" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1184,597,1226,649" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="df"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1280,599,1332,649" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ytryj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1378,597,1430,651" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ytry"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1484,593,1526,649" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tyrty"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1850,575,1902,631" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tre"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1940,579,1998,633" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tytr"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2072,513,2128,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="yte"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2170,519,2232,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tye"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2174,573,2224,619" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ye"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2084,575,2122,625" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="y"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2270,513,2332,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tr"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2372,519,2422,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="ee"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="484,743,548,807" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="492,807,548,855" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jkr"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="570,743,650,807" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="582,811,640,859" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgds"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="688,751,738,801" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gsf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="776,749,836,803" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2282,575,2320,633" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gskfgs"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2370,573,2426,623" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2478,517,2526,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fdsg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2480,577,2534,629" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fdsg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2562,519,2620,573" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fds"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1172,677,1232,731" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="886,747,938,805" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="980,749,1030,805" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gdfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1088,745,1134,805" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfdg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1174,751,1230,803" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1284,681,1334,725" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1378,677,1424,727" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1278,745,1336,801" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="3yhh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1376,749,1428,807" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gdfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1480,749,1538,809" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gdfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1638,671,1702,727" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fdgd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1640,741,1700,803" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfdg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1650,823,1702,883" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gfdgfd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1738,675,1788,731" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="dffdg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1740,739,1798,805" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fgdf"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1742,819,1794,883" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1850,727,1894,781" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sfg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1938,673,1998,733" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hgfh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1942,739,1994,787" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hgh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1840,819,1898,885" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="1942,821,1992,879" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jhgj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2076,671,2132,731" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2084,733,2124,785" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2180,655,2226,725" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hhg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2180,733,2240,777" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2466,669,2526,721" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hgj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2472,727,2528,777" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hgj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2570,665,2616,723" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2570,575,2610,635" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jhjh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2664,511,2720,571" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="jhgj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2672,573,2724,631" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fj"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2764,519,2818,569" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fdg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2768,573,2816,627" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="fg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2664,707,2726,781" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="sh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2568,727,2620,787" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hghd"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2762,663,2824,723" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="gh"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2764,727,2824,789" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="tg"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2684,989,2720,1045" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="565"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2726,991,2760,1041" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="554"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2768,993,2806,1041" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="rty"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+    <area shape="rect" coords="2814,997,2858,1049" href="#" dept="online" group="General" staffid="10564" englishname="Chan, Wai Hong" aliasname="" step="Information Technology Manager" outtel="29609810" innertel="8810" mobile="97771050" email="waihongchan@nmg.com.hk" name="hhrt"   level="人事主管" tel="15352551" head="images/head/1/01.jpg">
+    </area>
+</map>
+<map name="Map" floor="4"></map>
+<map name="Map" floor="5"></map>
+<map name="Map" floor="6"></map>
+<map name="Map" floor="7"></map>
+<map name="Map" floor="8"></map>
+<map name="Map" floor="9"></map>
+</maps>

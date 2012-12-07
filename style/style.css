@@ -1,0 +1,324 @@
+#controlList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    z-index: 99;
+    width: 500px;
+}
+
+/*
+ 提示栏内容
+ */
+div.staffinfo {
+    margin: 2px;
+    text-align: left;
+}
+
+#previewDiv {
+    float: right;
+    margin-right: 550px;
+    padding: 0;
+	cursor:pointer;
+}
+
+
+/*
+ .floor {
+ width: 800px;
+ height: 800px;
+ border: 0;
+ overflow: scroll;
+ float: left;
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+ display: block;
+ float: left;
+ text-align: center;
+ font-family: georgia;
+ list-style: none;
+ }
+ */
+body, ul, li {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-size: 12px;
+    -webkit-user-select: none;
+    -webkit-text-size-adjust: none;
+    font-family: helvetica;
+}
+
+#wrapper {
+    position: absolute;
+    z-index: 0;
+	left:500px;
+	width:500px;
+	height:500px;
+    overflow: auto;
+    cursor: move;
+}
+
+#scroller {
+    margin: 0;
+    /*	-webkit-touch-callout:none;*/
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+#scroller {
+    list-style: none;
+    display: block;
+    position: absolute;
+    padding: 0;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    z-index: 0;
+}
+
+#floorLi {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.headImg {
+    width: 100px;
+    height: 100px;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+#zoomDiv{
+	width:100px;	
+}
+.zoomImg {
+    width: 24px;
+    height: 24px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+#closeImg {
+    width: 30px;
+    height: 30px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    float: right;
+    top: -15px;
+    right: -15px;
+    cursor: pointer;
+}
+
+.mapster-tooltip {
+    display: none;
+    border: 2px solid black;
+    background: #EEEEEE;
+    position: absolute;
+    width: 200px;
+    padding: 4px;
+    margin: 4px;
+    -moz-box-shadow: 3px 3px 5px #535353;
+    -webkit-box-shadow: 3px 3px 5px #535353;
+    box-shadow: 3px 3px 5px #535353;
+    -moz-border-radius: 6px 6px 6px 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px 6px 6px 6px;
+    cursor: text;
+}
+
+#jSuccess {
+    position: absolute;
+    background: #E6EFC2 url('images/success.png') no-repeat 15px center;
+    color: #264409;
+    border: 1px solid #C6D880;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 50px;
+    margin: 15px;
+    z-index: 9999;
+}
+
+#jNotify {
+    position: absolute;
+    background: #d8e6fc url('images/info.png') no-repeat 15px center;
+    color: #35517c;
+    border: 1px solid #a7c3f0;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 50px;
+    margin: 15px;
+    z-index: 9999;
+}
+
+/**bind map to staffinfo bind.html的样式**/
+#bindDiv {
+    overflow: scroll;
+    width: 500px;
+    height: 500px;
+}
+
+#bindLi {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+	list-style:none;
+}
+
+#bindWrapper {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    left: 500px;
+    overflow: auto;
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+#controlDiv {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 500px;
+    width: 200px;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+#myRangeBar {
+    width: 100px;
+}
+
+/**滑动条**/
+#slider {
+    position: absolute;
+    left: 100px;
+    top: 10px;
+	width:162px;
+	height:23px;
+	border:none;
+	background-image:url("../images/滑动条a.png");/** 下面的圖片**/
+	background-repeat:no-repeat;
+}
+/**滑动条颜色**/
+#slider .ui-slider-range {
+	display:none;
+	width:163px;
+	height:23px;
+	border:none;
+}
+/*滑动块*/
+#slider .ui-slider-handle {
+	border:none;
+	background-image:url("../images/滑动条b.png");/**滑動塊**/
+	background-repeat:no-repeat;
+	width:10px;
+	height:30px;
+	top:2px;
+}
+/**滑动块**/
+/*
+ #mea{
+ position: absolute;
+ top: -11px;
+ left: 0;
+ width: 13px;
+ height: 22px;
+ background-image:url("../images/range.png");
+ background-repeat:no-repeat;
+ }
+ */
+#bindScroller {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+    cursor:move; /***firefox 必须再后面加上auto或pointer FF不支持hand的cursor，用pointer代替**/
+}
+#flagImg {
+    width: 30px;
+    height: 48px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+#flagDiv {
+    z-index: 2;
+    position: absolute;
+    left: 0;
+    top: 50;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+#value {
+    display: none;
+}
+
+#bindImg {
+    width: 2795px;
+    height: 1000px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    z-index: 0;
+}
+
+#mapCanvas {
+    overflow: hidden;
+    float: left;
+    margin: 0;
+    padding: 0;
+	display:none;
+}
+
+#staffName {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#floorTxt {
+    font-size: 24px;
+	width:400px;
+	color:red;
+	display:none;
+}
+#searchLi {
+	display:none;
+}
+#loading {
+	display: block;
+	width: 100%;
+	height: 100%;
+	top: 50%;
+	left: 50%;
+	padding: 10px 10px 10px 50px;
+	position: absolute;
+	z-index: 2001; 
+	display:none;	
+}

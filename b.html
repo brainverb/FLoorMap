@@ -1,0 +1,28 @@
+﻿<html>
+    <head>
+        <title>shapes</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+       <script type="text/javascript" src="js/jquery-1.7.1.min.js">
+        </script>
+		<script>
+			$(document).ready(function(){
+				 var obj = window.dialogArguments;
+				 $("#myDiv").text(obj.name);
+				$("#returnBtn").bind("click",function(e){
+					var returnObj = new Object();
+					returnObj.value = "return value1";
+					window.returnValue = returnObj;
+					window.close();
+				});
+			});
+			
+			
+		</script>
+    </head>
+    <body>
+        <form>
+        	<div id="myDiv"></div>
+        	<input type="button" name="submit" id="returnBtn"  value="return value">
+        </form>
+    </body>
+</html>

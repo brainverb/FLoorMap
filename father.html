@@ -1,0 +1,40 @@
+﻿<HTML>
+    <HEAD>
+        <TITLE> New Document </TITLE>
+        <META NAME="Generator" CONTENT="EditPlus">
+        <META NAME="Author" CONTENT="">
+        <META NAME="Keywords" CONTENT="">
+        <META NAME="Description" CONTENT="">
+		<script src="js/jquery-1.7.1.min.js" type="text/javascript"></script>
+        <script language="javascript">
+            <!--
+            function openChild(){
+				$(document.body).css({"background-color":"#cccccc","opacity":"0.5"});
+                var k = window.showModalDialog("child.html", window, "dialogWidth:335px;status:no;dialogHeight:300px;edge:sunken;center:yes;");
+                if (k != null) {
+					if(k === 1){
+						window.location.reload();
+					}else{
+						document.getElementById("txt11").value = k;
+					}
+					$(document.body).css({"background-color":"#cccccc","opacity":"0"});
+				}else{
+				}
+				
+                    
+            }
+            
+            //--> 
+        </script>
+    </HEAD>
+    <BODY>
+        <br>
+        传递到父窗口的值:<input id="txt9" type="text" value="3333333333333">
+        <br>
+        返回的值:<input id="txt11" type="text">
+        <br>
+        子窗口设置的值:<input id="txt10" type="text">
+        <br>
+        <input type ="button" value="openChild" onclick="openChild()">
+    </BODY>
+</HTML>
